@@ -1,4 +1,10 @@
 
+#content{
+
+    font-family: cursive;
+    color: aliceblue;
+}
+
 .box {
 
     width: 600px;
@@ -9,12 +15,4 @@
     border: 10px solid red;
     background-image: url("../images/psychic-ability.jpg");
     background-size: cover;
-
-}
-
-#content{
-    
-    font-family: cursive;
-    color: aliceblue;
-
 }
