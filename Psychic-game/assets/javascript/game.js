@@ -14,7 +14,7 @@ var numGuesses = 5;
 var computerGuess = [];
 var lettersGuessed = [];
 
-// //
+// This I I was trying another way and honestly had to google this way but it works so fuck it//
 
 window.onload = function () {
     var computerChosen = computerChoices[Math.floor(Math.random() * computerChoices.length)];
